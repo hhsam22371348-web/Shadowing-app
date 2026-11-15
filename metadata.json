@@ -1,0 +1,6 @@
+{
+  "name": "Zootopia Shadowing App",
+  "description": "Educational shadowing practice app for English learners using Judy Hopps' farewell scene from Zootopia.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
